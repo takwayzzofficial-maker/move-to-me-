@@ -1,0 +1,9 @@
+{
+  "name": "MoveToMe",
+  "description": "Добавляет стрелочку рядом с участником в списке голосового канала — нажатие перемещает его в твой голосовой канал.",
+  "authors": [{ "name": "Takwayzz" }],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_call_pull"
+  }
+}
